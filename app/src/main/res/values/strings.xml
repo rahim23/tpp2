@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tpp2</string>
+    <string name="calcul_moy">calcul moy</string>
+    <string name="moy">moy</string>
+</resources>
